@@ -9,3 +9,5 @@ Catalina Cuellar-Gempeler, Casey P. terHorst, Olivia U. Mason, and Thomas Miller
 **Raw data**  
 [Tcounts.txt](https://github.com/catalicu/DDP/edit/main/Tcounts.txt): Raw protozoan count data from the field experiment.  
 [Metadata.xlsx](https://github.com/catalicu/DDP/edit/main/MetadataDPP.xlsx): Annotated metadata file for data analysis. 
+
+[![DOI](https://zenodo.org/badge/498562037.svg)](https://zenodo.org/badge/latestdoi/498562037)
